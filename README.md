@@ -40,11 +40,11 @@ Number of Patients: 2,982
 
 Key Findings
 
-- Median survival time was approximately 4,033 days (about 11 years). :contentReference[oaicite:1]{index=1}
-- Tumor size and lymph node involvement were among the strongest predictors of survival. :contentReference[oaicite:2]{index=2}
-- Larger tumors were associated with substantially higher mortality risk. :contentReference[oaicite:3]{index=3}
-- Higher lymph node involvement significantly increased the hazard of death. :contentReference[oaicite:4]{index=4}
-- Grade 3 tumors were associated with worse survival outcomes compared to Grade 2 tumors. :contentReference[oaicite:5]{index=5}
+- Median survival time was approximately 4,033 days (about 11 years). 
+- Tumor size and lymph node involvement were among the strongest predictors of survival.
+- Larger tumors were associated with substantially higher mortality risk. :contentReference
+- Higher lymph node involvement significantly increased the hazard of death. :contentReference
+- Grade 3 tumors were associated with worse survival outcomes compared to Grade 2 tumors.
 - Violations of the proportional hazards assumption were addressed using an Extended Cox Model with time-dependent covariates. 
 
  Repository Contents
@@ -63,12 +63,4 @@ This repository contains the final project report, R scripts, survival curves, d
 - Medical Statistics
 - Predictive Modeling
 
-Author
 
-Reham Mohamed
-
-B.Sc. Statistics
-
-Faculty of Economics and Political Science
-
-Cairo University
